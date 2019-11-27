@@ -12,6 +12,6 @@
 ## Outline/Summary
 
 A platform that gives the user the ability to bookmark from a list of anime series
-so he/she can recieve updates on when a new episode is released.
+so he/she can recieve updates when a new episode is released.
 This is the description of the MVP for this project
 
