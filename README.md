@@ -1,6 +1,6 @@
 #  AnimeTracker
 
-## This is the outline for the ** Anime Tracker  ** Project
+## This is the outline for the **Anime Tracker** Project
 
 ### Technologies
 1. Python
