@@ -8,6 +8,7 @@
 3. Nodejs 
 4. Angular
 5. Django
+6. Scrapy / Requests
 
 ## Outline/Summary
 
