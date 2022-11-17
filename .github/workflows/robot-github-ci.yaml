@@ -15,7 +15,6 @@ jobs:
         runs-on: ubuntu-latest
         outputs:
             image_uri: ${{ steps.build_image.outputs.image }}
-        environment: dev
         steps:
             - name: checkout
               uses: actions/checkout@v3
